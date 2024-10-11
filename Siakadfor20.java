@@ -11,8 +11,7 @@ public class Siakadfor20 {
         double nilai, tertinggi = 0, terendah = 100;
 
         for (int i = 1; i <= 10; i++) {
-            System.out.print89
-            ("Nilai Mahasiswa ke-" + i + ": ");
+            System.out.print("Nilai Mahasiswa ke-" + i + ": ");
             nilai = sc.nextDouble();
             if (nilai > tertinggi) {
                 tertinggi = nilai;
